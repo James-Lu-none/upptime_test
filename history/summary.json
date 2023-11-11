@@ -4,10 +4,10 @@
     "url": "https://nportal.ntut.edu.tw/",
     "icon": "https://icons.duckduckgo.com/ip3/nportal.ntut.edu.tw.ico",
     "slug": "ntut-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 931,
@@ -15,14 +15,16 @@
     "timeWeek": 930,
     "timeMonth": 931,
     "timeYear": 931,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-11": 1
+    }
   },
   {
     "name": "NTUT_ischool",
     "url": "https://istudy.ntut.edu.tw/",
     "icon": "https://icons.duckduckgo.com/ip3/istudy.ntut.edu.tw.ico",
     "slug": "ntut-ischool",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 2130,
     "timeMonth": 2140,
     "timeYear": 2140,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-11": 0
+    }
   }
 ]
