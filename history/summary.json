@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/nportal.ntut.edu.tw.ico",
     "slug": "ntut-portal",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 929,
-    "timeDay": 947,
-    "timeWeek": 923,
-    "timeMonth": 929,
-    "timeYear": 929,
-    "dailyMinutesDown": {
-      "2023-11-11": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 934,
+    "timeDay": 967,
+    "timeWeek": 929,
+    "timeMonth": 934,
+    "timeYear": 934,
+    "dailyMinutesDown": {}
   },
   {
     "name": "NTUT_ischool",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2524,
-    "timeDay": 6603,
-    "timeWeek": 3114,
-    "timeMonth": 2524,
-    "timeYear": 2524,
+    "time": 2504,
+    "timeDay": 6504,
+    "timeWeek": 3083,
+    "timeMonth": 2504,
+    "timeYear": 2504,
     "dailyMinutesDown": {}
   }
 ]
